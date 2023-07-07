@@ -1,0 +1,136 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.A{
+  background-image: url("./images/tom1.png");
+  
+}
+.B{
+  background-image: url("./images/tom2.png");
+}
+.C{
+  background-image: url("./images/tom3.png");
+}
+.D{
+  background-image: url("./images/tom4.png");
+}
+.E{
+  background-image: url("./images/tom1.png");
+}
+.F{
+  background-image: url("./images/tom2.png");
+}
+.G{
+  background-image: url("./images/tom3.png");
+}
+.H{
+  background-image: url("./images/to4.png");
+}
+.I{
+  background-image: url("./images/crash.png");
+}
+.J{
+  background-image: URL("./images/kick.png");
+}
+.K{
+  background-image: URL("./images/kick.png");
+}
+.K{
+  background-image: URL("./images/kick.png");
+}
+.L{
+  background-image: URL("./images/SNARE.png");
+}
+.M{
+  background-image: URL("./images/kick.png");
+}
+.N{
+  background-image: URL("./images/SNARE.png");
+}
+.O{
+  background-image: URL("./images/SNARE.png");
+}
+.P{
+  background-image: URL("./images/kick.png");
+}
+.Q{
+  background-image: URL("./images/kick.png");
+}
+.R{
+  background-image: URL("./images/kick.png");
+}
+.S{
+  background-image: URL("./images/kick.png");
+}
+.T{
+  background-image: URL("./images/SNARE.png");
+}
+.U{
+  background-image: URL("./images/kick.png");
+}
+.V{
+  background-image: URL("./images/SNARE.png");
+}
+.W{
+  background-image: URL("./images/kick.png");
+}
+.X{
+  background-image: URL("./images/kick.png");
+}
+.Y{
+  background-image: URL("./images/kick.png");
+}
+.Z{
+  background-image: URL("./images/kick.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
